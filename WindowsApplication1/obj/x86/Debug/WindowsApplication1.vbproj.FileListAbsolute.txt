@@ -1,0 +1,40 @@
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormClientes.resources
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Listas.resources
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Articulos.resources
+c:\users\alumno\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Liquidacion.resources
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\bin\Debug\ABMClientes.exe
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\bin\Debug\ABMClientes.pdb
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\bin\Debug\ABMClientes.xml
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.exe
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.xml
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.pdb
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.Articulos.resources
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.Clientes.resources
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.Liquidacion.resources
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.Listas.resources
+E:\Lucas\escuela\5to\lpoo\vb-net\abm-clientes\WindowsApplication1\obj\x86\Debug\ABMClientes.Resources.resources
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\bin\Debug\ABMClientes.exe
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\bin\Debug\ABMClientes.pdb
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\bin\Debug\ABMClientes.xml
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.Articulos.resources
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.Clientes.resources
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.Liquidacion.resources
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.Listas.resources
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.Resources.resources
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.exe
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.xml
+C:\Users\PABLO\Downloads\abm-clientes-main\abm-clientes-main\WindowsApplication1\obj\x86\Debug\ABMClientes.pdb
